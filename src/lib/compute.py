@@ -15,5 +15,8 @@ class Compute:
         pass
 
     def multiply(self):
-        pass
+        sum  = 1
+        for item in self.operands:
+            sum *= item
+        print(sum)
 
