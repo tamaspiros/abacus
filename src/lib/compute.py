@@ -6,7 +6,10 @@ class Compute:
         self.operands = operands
 
     def add(self):
-        pass
+        total = 1
+        for item in self.operands:
+            total += item
+        print(total)
 
     def subtract(self):
         difference = 0
