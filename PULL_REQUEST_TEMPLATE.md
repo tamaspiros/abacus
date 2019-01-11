@@ -6,3 +6,5 @@ What is the acceptance criteria for the proposed solution?
 - [ ] PR approved
 - [ ] All checks pass
 - [ ] Manual tests approved
+- [ ] Architecture changes approved
+- [ ] Manual tests approved and test screenshots attached
